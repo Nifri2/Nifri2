@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Wellcome to my stash of instant legacy code. 
+Wellcome to my stash of legacy code. 
   
 My motto? Write once, debug everywhere.
 
