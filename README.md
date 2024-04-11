@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Wellcome to my stash of instant legacy code. 
+  
+My motto? Write once, debug everywhere.
+
 <!--
 **Nifri2/Nifri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
