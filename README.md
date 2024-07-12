@@ -13,8 +13,8 @@ My motto? Write once, debug everywhere.
 ### Check out my Star Lists!
 
 - [Embedded Rust](https://github.com/stars/Nifri2/lists/rust-embedded)
-- [Kubernetes]()
-- [Go Development]()
+- [Kubernetes](https://github.com/stars/Nifri2/lists/kubernetes)
+- [Go Development](https://github.com/stars/Nifri2/lists/go-dev)
 <!--
 **Nifri2/Nifri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
