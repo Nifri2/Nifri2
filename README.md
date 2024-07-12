@@ -10,6 +10,11 @@ My motto? Write once, debug everywhere.
 - Rust
 - Python
 
+### Check out my Star Lists!
+
+- [Embedded Rust](https://github.com/stars/Nifri2/lists/rust-embedded)
+- [Kubernetes]()
+- [Go Development]()
 <!--
 **Nifri2/Nifri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
