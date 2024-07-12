@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 Wellcome to my stash of legacy code. 
-  
-My motto? Write once, debug everywhere.
 
 ### Main Languages
 
